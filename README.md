@@ -1,2 +1,2 @@
 # Operators-Balancing-in-C
-Usar a estrutura de pilha para verificar o balanceamento de operadores
+Usar a estrutura de PILHA (LIFO) para verificar o balanceamento de operadores matemáticos...
