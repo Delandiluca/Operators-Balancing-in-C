@@ -18,7 +18,7 @@ void printStack(Stack *p);
 int validateOperator(char *op, Stack *p);
 char readTop(Stack *p);
 int isOpenCaracter(char c);
-int isCloseCaracter(char c);
+int isCloseCaracter(char c); 
 
 void startStack(Stack *p, int size) {
   p->top = -1;
